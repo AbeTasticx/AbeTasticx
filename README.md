@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 # 💫 About Me:
 🔭 I’m currently working on a private project...<br><br>🌱 I’m currently learning ReactJS/Typescript<br><br>💬 Ask me about .net
 
@@ -13,3 +14,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
